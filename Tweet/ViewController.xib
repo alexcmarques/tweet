@@ -427,10 +427,15 @@
 					<string key="className">ViewController</string>
 					<string key="superclassName">UIViewController</string>
 					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="alerta:">id</string>
 						<string key="authenticateUser:">id</string>
 						<string key="postTweet:">id</string>
 					</dictionary>
 					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="alerta:">
+							<string key="name">alerta:</string>
+							<string key="candidateClassName">id</string>
+						</object>
 						<object class="IBActionInfo" key="authenticateUser:">
 							<string key="name">authenticateUser:</string>
 							<string key="candidateClassName">id</string>
